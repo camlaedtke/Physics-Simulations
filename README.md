@@ -8,14 +8,19 @@ Collection of numerical simulations of different physical phenomena. Some of the
 
 ![](src/2D_1536.gif)
 
-#### Molecular simulation
 
-![](src/molecular_sim.gif)
+#### ResNet function approximator applied to damped pendulum
+
+![](src/resnet_training.gif)
+
 
 #### Monte Carlo simulation of ising model
 
 ![](src/ising_mc.gif)
 
-#### ResNet function approximator 
 
-![](src/resnet_training.gif)
+#### Molecular dynamics simulation
+
+![](src/molecular_sim.gif)
+
+
