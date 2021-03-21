@@ -8,3 +8,6 @@ Collection of numerical simulations of different physical phenomena. Some of the
 
 ![](src/2D_1536.gif)
 
+#### ResNet function approximator
+
+![](src/resnet_training.gif)
