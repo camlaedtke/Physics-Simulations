@@ -11,3 +11,7 @@ Collection of numerical simulations of different physical phenomena. Some of the
 #### ResNet function approximator
 
 ![](src/resnet_training.gif)
+
+#### Monte Carlo simulation of ising model
+
+![](src/ising_mc.gif)
