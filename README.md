@@ -1,3 +1,3 @@
-# Physics-Animations
+# Physics-Simulations
 
-Some random physics simulations I made. Most of them are adapted from homework assignments from PHYS/AST 4041: Computational Methods in the Physical Sciences. 
+Collection of scripts containing numerical simulations of different physical phenomena. 
