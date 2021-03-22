@@ -6,7 +6,7 @@ Collection of numerical simulations of different physical phenomena. Some of the
 
 #### Double slit interference
 
-![](src/2D_1536.gif)
+![](src/schrodinger_2D_1536.gif)
 
 
 #### ResNet function approximator applied to damped pendulum
