@@ -4,6 +4,11 @@ Collection of numerical simulations of different physical phenomena. Some of the
 
 ## Examples
 
+#### Quantum tunneling
+
+![](src/schrodinger_1D.gif)
+
+
 #### Double slit interference
 
 ![](src/schrodinger_2D_1536.gif)
